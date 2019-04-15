@@ -1,0 +1,11 @@
+C:\Users\hayde\source\repos\ConsoleWebScraperGeography\ConsoleWebScraperGeography\bin\Debug\ConsoleWebScraperGeography.exe.config
+C:\Users\hayde\source\repos\ConsoleWebScraperGeography\ConsoleWebScraperGeography\bin\Debug\ConsoleWebScraperGeography.exe
+C:\Users\hayde\source\repos\ConsoleWebScraperGeography\ConsoleWebScraperGeography\bin\Debug\ConsoleWebScraperGeography.pdb
+C:\Users\hayde\source\repos\ConsoleWebScraperGeography\ConsoleWebScraperGeography\bin\Debug\HtmlAgilityPack.dll
+C:\Users\hayde\source\repos\ConsoleWebScraperGeography\ConsoleWebScraperGeography\bin\Debug\HtmlAgilityPack.pdb
+C:\Users\hayde\source\repos\ConsoleWebScraperGeography\ConsoleWebScraperGeography\bin\Debug\HtmlAgilityPack.xml
+C:\Users\hayde\source\repos\ConsoleWebScraperGeography\ConsoleWebScraperGeography\obj\Debug\ConsoleWebScraperGeography.csprojAssemblyReference.cache
+C:\Users\hayde\source\repos\ConsoleWebScraperGeography\ConsoleWebScraperGeography\obj\Debug\ConsoleWebScraperGeography.csproj.CoreCompileInputs.cache
+C:\Users\hayde\source\repos\ConsoleWebScraperGeography\ConsoleWebScraperGeography\obj\Debug\ConsoleWebScraperGeography.csproj.CopyComplete
+C:\Users\hayde\source\repos\ConsoleWebScraperGeography\ConsoleWebScraperGeography\obj\Debug\ConsoleWebScraperGeography.exe
+C:\Users\hayde\source\repos\ConsoleWebScraperGeography\ConsoleWebScraperGeography\obj\Debug\ConsoleWebScraperGeography.pdb
